@@ -4,6 +4,7 @@ Serverless is your toolkit for deploying and operating serverless architectures.
 But it is possible to use serverless functions to manage your infrastructre as well.
 This repo contains several example that can be used to manage/monitor/configure your infrastructure.
 
-Pre-consideration:
+## Consideration
 
-- You have installed `serverless` and `aws-cli`.
+You need `awscli` and `serverless` framwork installed and configured on your system.
+
