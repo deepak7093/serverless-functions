@@ -1,4 +1,4 @@
-# serverless-functions
+# Serverless-functions
 
 Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 But it is possible to use serverless functions to manage your infrastructre as well.
