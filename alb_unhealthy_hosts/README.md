@@ -6,15 +6,15 @@ This consist lambda function to monitor an application load balancer to detect u
 
 - Install required pakages
 
-`pip install -r requirements.txt`
+  `pip install -r requirements.txt`
 
 - Set ENVIRONMENT VARIABLES
 
 Inside `handler.py`, set values for 
-`DEFAULT_REGION`, `SLACK_CHANNEL_NAME` and  `SLACK_API_TOKEN`.
+  `DEFAULT_REGION`, `SLACK_CHANNEL_NAME` and  `SLACK_API_TOKEN`.
 
 To generate slack api token see this:
-<https://get.slack.help/hc/en-us/articles/215770388-Create-and-regenerate-API-tokens>
+  <https://get.slack.help/hc/en-us/articles/215770388-Create-and-regenerate-API-tokens>
 
 - This function uses tags to identify specific resources, in this we are using `Environment = Production`.
 
